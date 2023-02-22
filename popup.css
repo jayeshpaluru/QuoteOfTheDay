@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .bg-gradient-to-b {
+    background: linear-gradient(to bottom, #4F46E5, #C87DF5);
+  }
+  

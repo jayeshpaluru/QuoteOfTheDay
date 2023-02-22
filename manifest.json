@@ -1,0 +1,16 @@
+{
+    "name": "Quote of the Day",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Displays a quote of the day using Quotable's API",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["https://api.quotable.io/*"],
+    "host_permissions": ["<all_urls>"],
+    "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'",
+      "default-src": ["'self'", "https://api.quotable.io"]
+    }
+  }
+  
