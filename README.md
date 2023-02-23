@@ -1,5 +1,5 @@
 # Quote Of The Day
-### A chrome extension that provides a quote of the day. Built with Tailwind and Node.js.
+### A chrome extension that provides a motivational or inspiring quote of the day. Built with Tailwind and Node.js.
 
 ## Purpose
 ### Have you ever felt unmotivated and need someone to tell you something to start your day off right?
