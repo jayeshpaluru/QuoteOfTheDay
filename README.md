@@ -6,5 +6,5 @@
 ### Look no further than this chrome extension which uses Quotable's API to display lots of motivational quotes whenever the extension is clicked.
 ![Image of Extension in action](https://github.com/jayeshpaluru/QuoteOfTheDay/blob/main/Screenshot%202023-02-22%20at%202.57.45%20AM-min%20(1).png)
 ## Download
-You can this extension to chrome by clicking [here](https://chrome.google.com/webstore/detail/quote-of-the-day/ccndpfgjocdkephklbmchbeiagmdphhg)
-You can also use this extension by running this code locally
+### You can this extension to chrome by clicking [here](https://chrome.google.com/webstore/detail/quote-of-the-day/ccndpfgjocdkephklbmchbeiagmdphhg)
+### You can also use this extension by running this code locally
